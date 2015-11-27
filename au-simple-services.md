@@ -77,7 +77,7 @@ Invoices from Provider will be paid by Customer within {{payment terms}} of Cust
 
 ## Intellectual Property
 
-This issue makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) (**IP**) that comes into existence as a result of this document.
+This issue makes clear which party owns the [intellectualr/intellectual_property.md) (**IP**) that comes into existence as a result of this document.
 
 ### Provider will own the Services IP but license the Client to use it.
 
